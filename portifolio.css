@@ -1,0 +1,68 @@
+body {
+    background: #262525;
+    color: #E5E5E5;
+}
+
+ .navbar {
+    margin-left: 780px;
+ }
+
+li{
+    
+    display: inline;
+    color: #E5E5E5;
+    padding: 10px;
+    font-size: 20px;
+    
+    
+}
+
+.button {
+    
+background: #262525;
+width: 100px;
+height: 30px;
+font-size: 20px;
+border-radius: 30px;
+
+
+
+color: #4744D9
+
+}
+
+.pic-svg {
+    
+    float: right;
+    margin-top: 100px;
+    
+}
+
+.content {
+    /* Patrick Nshimiyimana */
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 55px;
+line-height: 64px;
+
+
+
+/* I am a web developer, programmer and designer */
+
+position: absolute;
+width: 552px;
+height: 44px;
+left: 141px;
+top: 200px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+
+}
