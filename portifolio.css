@@ -3,9 +3,6 @@
     color: #E5E5E5;
 }
 
- /* .navbar {
-    margin-left: 780px;
- } */
 
 li{
     
@@ -32,39 +29,16 @@ color: #4744D9
 
 }
 
-/* .pic-svg {
-    
-    float: right;
-    margin-top: 100px;
-    
-} */
+
 
 .content {
 
-/* font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-/* line-height: 64px; */
 height: 90vh;
 font-size: 2rem; 
 display: flex;
 justify-content: space-between;
 align-items: center;
 margin: 0 3rem;
-
-/* I am a web developer, programmer and designer */
-/* 
-position: absolute;
-width: 552px;
-height: 44px;
-left: 141px;
-top: 200px; */
-/* 
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 36px;
-line-height: 42px; */
 
 }
 
@@ -94,8 +68,6 @@ li a {
 }
 
 .image {
-    /* Rectangle 1 */
-
 
 width: 321px;
 height: 267px;
@@ -119,6 +91,7 @@ height: 267px;
 .blog{
     text-align: center;
     font-size: 2rem;
+    
 
 }
 
@@ -151,4 +124,17 @@ height: 267px;
      max-width: 50%;
      border: none;
  }
+
+ .blog-btn {
+    background: rgb(0, 153, 255);
+    max-width: 50%;
+    border-radius: 50px;
+    border: 1px solid white;
+    margin: 0 35rem;
+    width: 150px;
+    height: 40px;
+ }
   
+ .contact-head{
+     margin: 5rem 35rem;
+ }

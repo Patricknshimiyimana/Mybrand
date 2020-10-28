@@ -1,0 +1,14 @@
+
+body {
+    background: #262525;
+    color: #e5e5e5;
+    text-align: center;
+}
+
+.message {
+    border-radius: 2rem;
+    border:solid turquoise;
+    max-width: 800px;
+    align-items: center;
+    margin: 5rem auto;
+}

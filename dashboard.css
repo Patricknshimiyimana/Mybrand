@@ -1,0 +1,46 @@
+body {
+    background: #262525;
+    color: #E5E5E5;
+}
+
+
+li{
+    
+    display: inline;
+    color: #E5E5E5;
+    padding: 10px;
+    font-size: 20px;
+    
+    
+}
+
+.button {
+    
+background: #262525;
+width: 100px;
+height: 30px;
+font-size: 20px;
+border: solid 1px #4744D9;
+border-radius: 30px;
+color: #4744D9
+
+}
+
+.nav-bar{
+    display: flex;
+justify-content: space-between;
+
+}
+
+li a {
+    color: #E5E5E5;
+    text-decoration: none;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 3rem;
+    
+}
